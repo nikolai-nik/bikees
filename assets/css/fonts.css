@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'high_tideregular';
+    src: url('../fonts/hightide/hightide-webfont.eot');
+    src: url('../fonts/hightide/hightide-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/hightide/hightide-webfont.woff') format('woff'),
+         url('../fonts/hightide/hightide-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+
+}
+
+
+
+
+@font-face {
+    font-family: 'spitfire';
+    src: url('../fonts/spitfire/7fonts.ru_hoodo-webfont.eot');
+    src: url('../fonts/spitfire/7fonts.ru_hoodo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/spitfire/7fonts.ru_hoodo-webfont.woff') format('woff'),
+         url('../fonts/spitfire/7fonts.ru_hoodo-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'PTSansNarrowRegular';
+    src: url('../fonts/PTSansNarrow/PTSansNarrowRegular/PTSansNarrow.eot');
+    src: url('../fonts/PTSansNarrow/PTSansNarrowRegular/PTSansNarrow.eot?#iefix')format('embedded-opentype'),
+        url('../fonts/PTSansNarrow/PTSansNarrowRegular/PTSansNarrow.woff')
+            format('woff'),
+        url('../fonts/PTSansNarrow/PTSansNarrowRegular/PTSansNarrow.ttf')
+            format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'PTSansNarrowBold';
+    src: url('../fonts/PTSansNarrow/PTSansNarrowBold/PTSansNarrowBold.eot');
+    src: url('../fonts/PTSansNarrow/PTSansNarrowBold/PTSansNarrowBold.eot?#iefix')format('embedded-opentype'),
+        url('../fonts/PTSansNarrow/PTSansNarrowBold/PTSansNarrowBold.woff') format('woff'),
+        url('../fonts/PTSansNarrow/PTSansNarrowBold/PTSansNarrowBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
