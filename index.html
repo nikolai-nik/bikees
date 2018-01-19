@@ -15,16 +15,19 @@
 		<header class="header">
 			<div class="container">
 				<div class="row">
-					<div class="column4">
+					<div class="column5">
 						<div class="logo"><a href="#">Bikees.</a></div>
 					</div>
-					<div class="column4">
-						<form action="#" method="post" class="search-form">
-							<label for="" class="search-form__label">
-								<input  required type="search" class="search-form__input">
-								<button class="search-form_button" type="submit">Search</button>
-							</label>
-						</form>
+					<div class="column3">
+						<div class="form-group">
+							<form action="#" method="get" id="form-group" class="search-form" >
+								<label  class="search-form__label">
+									<input  required type="search" class="search-form__input">
+									<button type="reset" class="search-form__reset"><i class="fa fa-times" aria-hidden="true"></i></button>
+								</label>
+							</form>
+							<button form="form-group" type="submit" class="search-form__button">Search</button>
+						</div>
 					</div>
 				</div>
 			</div>
